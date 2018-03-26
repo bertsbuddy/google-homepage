@@ -1,0 +1,1 @@
+This is my first project utilizing the skills that I have learned in HTML and CSS, as well as with the ability to use Chrome Dev Tools. I will be recreating the Google homepage from scratch.
